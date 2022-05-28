@@ -1,0 +1,2 @@
+In this project, we analyzed a single-cell RNA-seq dataset, with the goal of unveiling hierarchical structure and discovering important genes.
+We used K-means clustering, PCA, MDS and T-SNE.
