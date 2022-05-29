@@ -1,0 +1,2 @@
+For a database of over 21.000 contributors I developed a code to eliminate empty cells of the emails list, as well as check if the emails prodived on the list had an valid email formtat and valid domain. 
+The codes output is an excel document with the original information about the contributors except those without email entries and a new column with their email status "Valid or Not Valid". 
